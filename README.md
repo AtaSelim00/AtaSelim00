@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gismat Guseinov</h1>
-<h3 align="center">I'm a Middle Software and Junior Database Developer</h3>
+<h1 align="center">Hi 👋, I'm Ata Salimov</h1>
+<h3 align="center">I'm a Middle Software</h3>
 
 
 
@@ -7,14 +7,14 @@
  <img style="float:left"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400"/>
 </p>
 
-- 🌱 I’m currently learning **PostgreSql** and **Node.js**
+ 
 
-- 👯 I’m looking to collaborate with **PostgreSql** and **Node.js** Developers
+- 👯 I’m looking to collaborate with **.NET Core** Developers
 
-- 📫 How to reach me **gismathusein@gmail.com**
+- 📫 How to reach me **slimovata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" height="30" width="40"/></a><a href="https://stackoverflow.com/users/14853869/gismat-husein" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"alt="14834383" height="30"width="40"/></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/ata-salim-2a629430a/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ata-salim-2a629430a/" height="30" width="40"/></a><a href="" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"alt="14834383" height="30"width="40"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsmat&show_icons=true&locale=en&layout=compact" alt="gsmat" /></p>
 
