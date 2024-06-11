@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata Salimov</h1>
-<h3 align="center">I'm a Middle Software</h3>
+<h3 align="center">I'm a Middle Software Developer</h3>
 
 
 
